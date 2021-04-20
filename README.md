@@ -5,16 +5,16 @@ A doctor appointment system where patients can take appointments online and doct
 
 - [x] You can create a user profile as a doctor or general user.
 - [x] As a doctor you can access the following features:
-      - You can keep track of your appointments with your patients. Your appointments will be arranged in a table in the Appointment with Patients page where in each row the following informations will be available:
-      - The day of the appointment
-      - Patient's name
-      - Location
-      - Appointment time/ Schedule
-              - Serial
-              - Prescription if already the appointment is done
-              - Patient check in time
-              - Patient check out time
-              - Clear button by which you can clear an appointment if it's done
+  - You can keep track of your appointments with your patients. Your appointments will be arranged in a table in the Appointment with Patients page where in each row the following informations will be available:
+  - The day of the appointment
+    - Patient's name
+    - Location
+    - Appointment time/ Schedule
+    - Serial
+    - Prescription if already the appointment is done
+    - Patient check in time
+    - Patient check out time
+    - Clear button by which you can clear an appointment if it's done
           - You can also find if there is any appointment in a particular day and in a particular time by going to the Working hour page. Here at first you need to select the the day you want to check. Then you have to select the exact time and you will be shown the list of patients who have appointment in that particular schedule. 
           - From the Working Hour page, you can also get the information of a patient who have or had appointment with you in a particular schedule.
           - You can also update the prescription, check in and check out time from here.
