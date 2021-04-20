@@ -41,5 +41,5 @@ A doctor appointment system where patients can take appointments online and doct
 
 ## Our website preview
 
-[![name](link to image on GH)](link to your URL)
+[![](https://github.com/CU-Incognito/Baymax/blob/main/Screenshot%20(305).png)]()
 
