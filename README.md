@@ -3,7 +3,6 @@ A doctor appointment system where patients can take appointments online and doct
 
 ## Features provided by our website:
 
-```
 - [x] You can create a user profile as a doctor or general user.
 - [x] As a doctor you can access the following features:
           - You can keep track of your appointments with your patients. Your appointments will be arranged in a table in the Appointment with Patients page where in each row the following informations will be available:
@@ -33,4 +32,4 @@ A doctor appointment system where patients can take appointments online and doct
               - Prescription if already the appointment is done
               - Patient check in time
               - Patient check out time
-```
+
