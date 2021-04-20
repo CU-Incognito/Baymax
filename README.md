@@ -33,8 +33,13 @@ A doctor appointment system where patients can take appointments online and doct
     - Patient check in time
     - Patient check out time
   - You can search for doctor of a certain specialty from Find a Doctor menu. Here all the categories are listed and upon clicking on a category, you will find a list of doctors in that particular category.
+  - You can also filter the list of the doctors by entering specific day and location in the specified box.
   - From the list of doctors, you can go to the profile of a doctor by clicking on his/her name.
   - In the profile of doctor, you can take appointment of that doctor on any schedule listed on the doctor's schedule table.
   - You can also rate the doctor according to your experience.
   - You can find your prescriptions from all the doctors in the Prescriptions page.
+
+## Our website preview
+
+[![name](link to image on GH)](link to your URL)
 
