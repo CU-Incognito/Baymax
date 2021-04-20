@@ -1,0 +1,71 @@
+body { font-family:"Garamond";
+  background-color: #F0F8FF;
+}
+h5{ font-family:"Garamond";
+		text-align: center;
+		font-size: 50px;
+		position: relative;
+		top: 100px;
+		color: #483D8B;
+		font-family: serif;
+	}
+	button { font-family:"Garamond";
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a { font-family:"Garamond";
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover { font-family:"Garamond";
+  opacity: 0.7;
+}
+.button { font-family:"Garamond";
+  border-radius: 5px;
+  background-color: #B0C4DE;
+  border: none;
+  color: #483D8B;
+  text-align: center;
+  font-size: 40px;
+  padding: 40px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span { font-family:"Garamond";
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after { font-family:"Garamond";
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span { font-family:"Garamond";
+  padding-right: 25px;
+}
+
+.button:hover span:after { font-family:"Garamond";
+  opacity: 1;
+  right: 0;
+}

@@ -1,0 +1,95 @@
+* { font-family:"Garamond";box-sizing: border-box;}
+
+body { font-family:"Garamond";
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F0F8FF;
+}
+
+.topnav { font-family:"Garamond";
+  overflow: hidden;
+  background-color:  #B0C4DE;
+}
+
+.topnav a { font-family:"Garamond";
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover { font-family:"Garamond";
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active { font-family:"Garamond";
+  background-color: #483D8B;
+  color: white;
+}
+
+.topnav .search-container { font-family:"Garamond";
+  float: right;
+}
+
+.topnav input[type=text] { font-family:"Garamond";
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button { font-family:"Garamond";
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover { font-family:"Garamond";
+  background: #ccc;
+}
+
+@media screen and (max-width: 600px) { font-family:"Garamond";
+  .topnav .search-container { font-family:"Garamond";
+    float: none;
+  }
+  .topnav a, .topnav input[type=text], .topnav .search-container button { font-family:"Garamond";
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] { font-family:"Garamond";
+    border: 1px solid #ccc;  
+  }
+}
+.vertical-menu { font-family:"Garamond";
+  width: 1535px;
+}
+
+.vertical-menu a { font-family:"Garamond";
+  background-color: #B0C4DE;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover { font-family:"Garamond";
+  background-color: #F0FFFF;
+}
+
+.vertical-menu a.active { font-family:"Garamond";
+  background-color: #B0C4DE;
+  color: white;
+}
