@@ -3,10 +3,9 @@ A doctor appointment system where patients can take appointments online and doct
 
 ## Features provided by our website:
 
-- [x] You can create a user profile as a doctor or general user.
+- [x] You can create a user profile as a doctor or general user by signing up.
 - [x] As a doctor you can access the following features:
   - You can keep track of your appointments with your patients. Your appointments will be arranged in a table in the Appointment with Patients page where in each row the following informations will be available:
-```
     - The day of the appointment
     - Patient's name
     - Location
@@ -16,7 +15,6 @@ A doctor appointment system where patients can take appointments online and doct
     - Patient check in time
     - Patient check out time
     - Clear button by which you can clear an appointment if it's done
-```
   - You can also find if there is any appointment in a particular day and in a particular time by going to the Working hour page. Here at first you need to select the the day you want to check. Then you have to select the exact time and you will be shown the list of patients who have appointment in that particular schedule. 
   - From the Working Hour page, you can also get the information of a patient who have or had appointment with you in a particular schedule.
   - You can also update the prescription, check in and check out time from here.
@@ -34,4 +32,9 @@ A doctor appointment system where patients can take appointments online and doct
     - Prescription if already the appointment is done
     - Patient check in time
     - Patient check out time
+  - You can search for doctor of a certain specialty from Find a Doctor menu. Here all the categories are listed and upon clicking on a category, you will find a list of doctors in that particular category.
+  - From the list of doctors, you can go to the profile of a doctor by clicking on his/her name.
+  - In the profile of doctor, you can take appointment of that doctor on any schedule listed on the doctor's schedule table.
+  - You can also rate the doctor according to your experience.
+  - You can find your prescriptions from all the doctors in the Prescriptions page.
 
